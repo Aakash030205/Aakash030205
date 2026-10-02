@@ -11,9 +11,11 @@
 <a href="https://github.com/Aakash030205">
 <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/aakash-raja-r-74984b268">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:aakashraja2018@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -28,39 +30,23 @@
 
 <div align="center">
 
-# `ENGINEERING THE DIGITAL × PHYSICAL WORLD`
+# ENGINEERING THE DIGITAL × PHYSICAL WORLD
 
 ### Software that thinks.
-
 ### Hardware that senses.
-
 ### Systems that connect.
 
 </div>
 
 ---
 
-# 🧬 WHO I AM
+# 👋 WHO I AM
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│                     AAKASH RAJA R                          │
-│                                                            │
-│     Software Engineering        Electrical Engineering    │
-│              │                           │                 │
-│              └─────────────┬─────────────┘                 │
-│                            │                               │
-│                       EMBEDDED + IoT                       │
-│                            │                               │
-│                            ▼                               │
-│                    INTELLIGENT SYSTEMS                     │
-│                            │                               │
-│                            ▼                               │
-│                     REAL-WORLD USE                         │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="./assets/who-i-am.gif" width="100%" alt="Aakash Raja R - Software Hardware Intelligence"/>
+
+</div>
 
 I'm an engineering graduate interested in building **software,
 embedded systems, IoT applications, and intelligent solutions**.
@@ -70,228 +56,302 @@ technology that can interact with the real world.
 
 ---
 
-# ⚡ THE ENGINEERING STACK
+# ⚡ WHAT I BUILD
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 💻 SOFTWARE
+
+- 🌐 Web Applications
+- 📱 Flutter Applications
+- ☁️ Firebase Applications
+- 🧠 Intelligent Applications
+- 🗄️ Data-driven Systems
+- 🎨 User-focused Interfaces
+- 🔧 JavaScript Development
+- 🐍 Python Development
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ HARDWARE
+
+- 🔌 Embedded Systems
+- 📡 IoT Solutions
+- 🔬 Sensors
+- ⚙️ Electronics
+- 🤖 Automation
+- 🧠 Intelligent Systems
+- 🔗 Hardware–Software Integration
+- 📊 Real-world Data Systems
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 TECHNOLOGY ARSENAL
 
 <div align="center">
 
-### SOFTWARE
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,javascript,dart,html,css&theme=dark"/>
-
-<br><br>
-
-### APPLICATIONS
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,dart,html,css&theme=dark" />
 
 <br><br>
 
-### HARDWARE
+### FRAMEWORKS & PLATFORMS
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" />
 
 <br><br>
 
-### TOOLS
+### HARDWARE & EMBEDDED
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+
+<br><br>
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-# 🧠 HOW I THINK
+# ⚙️ ENGINEERING WORKFLOW
 
 <div align="center">
 
-| 🔎 DISCOVER | 🧠 DESIGN |  ⚙️ BUILD |  🧪 TEST | 🚀 DEPLOY |
-| :---------: | :-------: | :-------: | :------: | :-------: |
-|  Understand | Architect | Implement | Validate |  Improve  |
+<img src="./assets/engineering-workflow.gif" width="100%" alt="Engineering Workflow"/>
 
 </div>
 
-> **Every project starts with a problem.
-> Engineering turns that problem into a system.**
+### My approach
+
+**Discover → Design → Build → Test → Deploy → Improve**
+
+I focus on understanding the problem first, designing a practical
+solution, building it, testing it in the real world, and continuously
+improving it.
 
 ---
 
-# 🚀 SELECTED WORK
+# 🚀 FEATURED PROJECTS
 
-<div align="center">
+## `01` — 📱 CIVICSOS
 
-## `01` — CIVICSOS
+### Flutter × Firebase
 
-### 📱 Flutter × Firebase
+A modern mobile application built using **Flutter and Firebase**,
+designed around a connected application architecture.
 
-</div>
-
-A mobile application developed using **Flutter and Firebase**, combining
-a modern application interface with a connected backend.
-
-```text
-MOBILE
-  │
-  ├── Flutter
-  ├── Dart
-  │
-  ▼
-APPLICATION
-  │
-  ├── Firebase
-  ├── Authentication / Data
-  │
-  ▼
-CONNECTED SYSTEM
-```
-
-**Technology**
+### Technology
 
 `Flutter` `Dart` `Firebase` `Android`
 
+### Highlights
+
+- 📱 Mobile application
+- 🔥 Firebase integration
+- 🔐 Connected backend
+- 🚀 Android release
+- 🧩 Structured application architecture
+- 📲 Real-world application workflow
+
+<div align="left">
+
 <a href="https://github.com/Aakash030205/civicsos">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Aakash030205/civicsos/releases/tag/v1.0.0">
-<img src="https://img.shields.io/badge/ANDROID_RELEASE-0F172A?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANDROID%20RELEASE-2563EB?style=for-the-badge&logo=android&logoColor=white"/>
 </a>
-
----
-
-<div align="center">
-
-## `02` — SONA & RAHUL
-
-### 💍 Digital Wedding Experience
 
 </div>
 
+---
+
+## `02` — 💍 SONA & RAHUL
+
+### Premium Digital Wedding Invitation
+
 A custom-designed digital wedding invitation focused on creating a
-**premium, interactive, shareable experience**.
+**premium, interactive and shareable experience**.
 
-```text
-DESIGN
-  │
-  ▼
-HTML + CSS
-  │
-  ▼
-JAVASCRIPT
-  │
-  ▼
-INTERACTIVE EXPERIENCE
-  │
-  ▼
-SHAREABLE WEB INVITATION
-```
-
-**Technology**
+### Technology
 
 `HTML` `CSS` `JavaScript`
 
+### Highlights
+
+- ✨ Royal visual design
+- 🎵 Interactive experience
+- 📍 Event location integration
+- 📱 Responsive design
+- 🌐 Shareable invitation
+- 🎨 Custom visual experience
+
+<div align="left">
+
 <a href="https://github.com/Aakash030205/sona-rahul-wedding-invitation">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
----
-
-<div align="center">
-
-## `03` — NATHAM SRI KAMATCHI READYMADeS
-
-### 🛍️ Digital Retail Platform
 
 </div>
 
-A modern web storefront designed for a local retail business, combining
+---
+
+## `03` — 🛍️ NATHAM SRI KAMATCHI READYMADeS
+
+### Digital Retail Platform
+
+A modern storefront designed for a local retail business, combining
 product discovery, shopping functionality, authentication and
 WhatsApp-based ordering.
 
-```text
-CUSTOMER
-   │
-   ▼
-PRODUCT DISCOVERY
-   │
-   ├── Search
-   ├── Categories
-   └── New Arrivals
-   │
-   ▼
-SHOPPING CART
-   │
-   ▼
-WHATSAPP ORDER
-```
-
-**Technology**
+### Technology
 
 `HTML` `CSS` `JavaScript` `Firebase`
 
+### Highlights
+
+- 🛒 Product browsing
+- 🔎 Product search
+- 🏷️ Category filtering
+- 🆕 New arrivals
+- 🛍️ Shopping cart
+- 📲 WhatsApp ordering
+- 🔐 Authentication
+- 🔥 Firebase backend
+- 📍 Store location integration
+
+<div align="left">
+
 <a href="https://github.com/Aakash030205/natham-sri-kamatchi-readymades">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
-
-# 🔬 ENGINEERING DOMAINS
-
-<div align="center">
-
-```text
-                 ┌────────────────────┐
-                 │    INTELLIGENCE    │
-                 └─────────┬──────────┘
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-       ┌──────▼──────┐           ┌──────▼──────┐
-       │   SOFTWARE  │           │   HARDWARE  │
-       └──────┬──────┘           └──────┬──────┘
-              │                         │
-       ┌──────▼──────┐           ┌──────▼──────┐
-       │ APPLICATIONS│           │   SENSORS   │
-       └──────┬──────┘           └──────┬──────┘
-              │                         │
-              └────────────┬────────────┘
-                           │
-                    ┌──────▼──────┐
-                    │     IoT     │
-                    └──────┬──────┘
-                           │
-                    ┌──────▼──────┐
-                    │ REAL WORLD  │
-                    └─────────────┘
-```
-
 </div>
 
 ---
 
-# 📡 CURRENTLY EXPLORING
+# ⚡ SOFTWARE × HARDWARE
 
 <div align="center">
 
-`IoT Architecture`
-`Embedded Systems`
-`Sensor Integration`
-`Intelligent Automation`
-`Flutter Development`
-`Firebase Systems`
-`AI-Assisted Engineering`
-`Hardware × Software Integration`
+<img src="./assets/software-hardware.gif" width="100%" alt="Software and Hardware Integration"/>
 
 </div>
 
+### My engineering interests connect both worlds:
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💻 SOFTWARE
+
+- Web Development
+- Mobile Development
+- Flutter
+- Firebase
+- Python
+- JavaScript
+- Data Systems
+- Cloud Applications
+
+</td>
+
+<td width="50%">
+
+### ⚡ HARDWARE
+
+- Embedded Systems
+- Electronics
+- Sensors
+- Microcontrollers
+- IoT
+- Automation
+- Connected Devices
+- Hardware Integration
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-# 📊 GITHUB ENGINEERING METRICS
+# 📡 CURRENT FOCUS
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Aakash030205&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"/>
+<img src="./assets/current-focus.gif" width="100%" alt="Current Engineering Focus"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash030205&layout=compact&langs_count=8&hide_border=true&theme=transparent"/>
+</div>
+
+### 🔬 Exploring
+
+- 🌐 IoT architectures
+- 📡 Sensor data integration
+- ⚡ Embedded systems
+- 🤖 Intelligent automation
+- 📱 Flutter applications
+- ☁️ Firebase & cloud systems
+- 🧠 AI-assisted engineering
+- 🔌 Hardware–software communication
+
+---
+
+# 🧩 ENGINEERING MINDSET
+
+<div align="center">
+
+### THINK
+
+↓
+
+### DESIGN
+
+↓
+
+### BUILD
+
+↓
+
+### TEST
+
+↓
+
+### IMPROVE
+
+</div>
+
+I believe engineering is not simply about making something work.
+
+It's about creating systems that are:
+
+**Reliable • Useful • Maintainable • Scalable • User-focused**
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aakash030205&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash030205&layout=compact&langs_count=8&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -305,66 +365,133 @@ WHATSAPP ORDER
 
 ---
 
-# 🐍 CONTRIBUTION FLOW
+# 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aakash030205/Aakash030205/output/github-contribution-grid-snake.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/Aakash030205/Aakash030205/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🗺️ THE ROAD AHEAD
-
-```text
-                         2026
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-             ▼             ▼             ▼
-         SOFTWARE      EMBEDDED        IoT
-             │             │             │
-             ▼             ▼             ▼
-          FLUTTER       SENSORS      CONNECTIVITY
-             │             │             │
-             └─────────────┼─────────────┘
-                           │
-                           ▼
-                     INTELLIGENT
-                       SYSTEMS
-                           │
-                           ▼
-                    REAL-WORLD
-                      SOLUTIONS
-```
-
----
-
-# 🎯 ENGINEERING PRINCIPLES
+# 🗺️ ENGINEERING ROADMAP
 
 <div align="center">
 
-### `BUILD WITH PURPOSE`
-
-### `DESIGN FOR PEOPLE`
-
-### `ENGINEER FOR REALITY`
-
-### `LEARN CONTINUOUSLY`
-
-### `IMPROVE EVERY VERSION`
+<img src="./assets/roadmap.gif" width="100%" alt="Engineering Roadmap"/>
 
 </div>
 
 ---
 
-# 🌐 FIND ME
+# 🎯 2026 FOCUS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="180">
+
+### 💻
+
+**SOFTWARE**
+
+Applications  
+Flutter  
+Cloud
+
+</td>
+
+<td align="center" width="180">
+
+### ⚡
+
+**EMBEDDED**
+
+Electronics  
+Microcontrollers  
+Sensors
+
+</td>
+
+<td align="center" width="180">
+
+### 🌐
+
+**IoT**
+
+Connectivity  
+Data  
+Automation
+
+</td>
+
+<td align="center" width="180">
+
+### 🧠
+
+**INTELLIGENCE**
+
+AI  
+Smart Systems  
+Automation
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌟 MY VISION
+
+<div align="center">
+
+## BUILD TECHNOLOGY THAT SOLVES REAL PROBLEMS.
+
+<br>
+
+**Software + Electronics + Data + Intelligence**
+
+<br>
+
+↓
+
+<br>
+
+**Real-World Engineering Solutions**
+
+</div>
+
+---
+
+# 🏆 ENGINEERING PRINCIPLES
+
+<div align="center">
+
+| PRINCIPLE | MINDSET |
+|:---:|:---|
+| 🎯 **PURPOSE** | Build with a reason |
+| 🧠 **CURIOSITY** | Keep learning |
+| ⚙️ **ENGINEERING** | Solve systematically |
+| 🔬 **EXPERIMENTATION** | Test ideas |
+| 🚀 **INNOVATION** | Improve continuously |
+| 🌍 **IMPACT** | Create useful solutions |
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/Aakash030205">
-<img src="https://img.shields.io/badge/GITHUB-Aakash030205-0F172A?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-Aakash030205-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aakash-raja-r-74984b268">
@@ -381,11 +508,17 @@ WHATSAPP ORDER
 
 <div align="center">
 
-## `SOFTWARE × HARDWARE × INTELLIGENCE`
+<br>
 
-### **BUILD • CONNECT • INNOVATE**
+# `SOFTWARE × HARDWARE × INTELLIGENCE`
+
+### BUILD • CONNECT • INNOVATE
 
 <br>
+
+**Engineering ideas into real-world solutions.**
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:020617&height=150&section=footer&animation=fadeIn" width="100%"/>
 
